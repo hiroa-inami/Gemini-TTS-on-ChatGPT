@@ -1,4 +1,4 @@
-![Preview](.preview.gif)
+![Preview](./preview.gif)
 
 # Gemini TTS on ChatGPT
 personal userscript which send Gemini's response to ChatGPT for TTS  
